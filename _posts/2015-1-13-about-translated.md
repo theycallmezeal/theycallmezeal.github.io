@@ -6,6 +6,8 @@ category: fun
 
 I wrote all this out back when my about page was a lot more wordy. Here it is for reference...
 
+Yes, I know the Spanish and German might be riddled with errors, but I'm keeping them, I don't care.
+
 # 日本語！
 
 [トマス・ジェファーソン高校](http://www.tjhsst.edu)の学生です。前、[レイチェル・カーソン中学](http://www.fcps.edu/RachelCarsonMS)の学生でした。その経験はもっと好きでした。
