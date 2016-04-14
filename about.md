@@ -16,8 +16,6 @@ I have also taught myself:
 * Spanish, also A2-ish
 * Chinese, horrible
 
-[Read about me in other languages.](about_translated)
-
 # I do web design
 
 I lean front-end and I like making websites usable and neat-looking.
