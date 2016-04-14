@@ -63,7 +63,7 @@ header ul li:hover {
 	transform: rotate(-5deg);
 }
 
-header ul li a:visited {
+header ul li a, header ul li a:visited {
 	color: white;
 }
 
