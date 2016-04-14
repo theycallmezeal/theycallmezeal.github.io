@@ -1,0 +1,167 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Merriweather);
+
+header, nav, main, footer {
+	display: block;
+}
+
+body {
+	font-family: Merriweather, Georgia, serif;
+	background-image: url(../images/pattern.png);
+	margin: 0px;
+	line-height: 200%;
+	padding-bottom: 20px;
+	overflow: scroll;
+}
+
+a {
+	text-decoration: none;
+}
+
+#navskip {
+	position: absolute;
+	padding: 5px 0px 0px 5px;
+}
+
+#navskip a {
+	color: #0084ff;
+	transition: color 0.5s;
+	-webkit-transition: color 0.5s;
+	-moz-transition: color 0.5s;
+	-o-transition: color 0.5s;
+	-ms-transition: color 0.5s;
+}
+
+#navskip a:hover, #navskip a:focus {
+	color: white;
+}
+
+header {
+	background-color: #0084ff;
+	padding: 15px 0px;
+	text-align: center;
+}
+
+header ul li {
+	display: inline-block;
+	margin-left: 20px;
+	margin-right: 20px;
+	
+	color: white;
+	font-family: Montserrat, Futura, Century Gothic, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+	
+	padding-bottom: 5px;
+	border-bottom: dotted 3px #0084ff;
+}
+
+header ul li:hover {
+	border-bottom: dotted 3px white;
+	-ms-transform: rotate(-5deg);
+	-webkit-transform: rotate(-5deg);
+	transform: rotate(-5deg);
+}
+
+header ul li a:visited {
+	color: white;
+}
+
+#home {
+	font-size: 200%;
+	font-weight: bold;
+}
+
+main {
+	width: 66%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#title{
+	text-align: center;
+}
+
+#title h1 {
+	font-size: 18pt;
+	font-family: Montserrat, Futura, Century Gothic, 'Hiragino Kaku Gothic Pro', 'Meiryo', sans-serif;;
+}
+
+#title h2 {
+	font-size: 14pt;
+	font-weight: normal;
+	color: #777777;
+}
+
+#title h2#date {
+	font-style: italic;
+	font-size: 12pt;
+}
+
+h1 {
+	font-size: 16pt;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 14pt;
+}
+
+h3 {
+	font-weight: bold;
+	color: #333333;
+}
+
+p, li {
+	color: #444444;
+}
+
+main a:link {
+	color: #0084ff;
+}
+
+pre {
+	background-color: #dddddd;
+	color: #555555;
+	font-family: monospace;
+	padding: 10px;
+	padding-left: 20px;
+	font-size: inherit;
+}
+
+hr {
+	color: #777777;
+}
+
+/*
+footer {
+	text-align: center;
+	background-color: #eeeeee;
+	border-radius: 5px;
+	width: 100%;
+	position: fixed;
+	bottom: -100px;
+	transition: color 0.5s;
+	-webkit-transition: bottom 0.5s;
+	-moz-transition: bottom 0.5s;
+	-o-transition: bottom 0.5s;
+	-ms-transition: bottom 0.5s;
+}
+
+footer:hover {
+	bottom: 0px;
+}
+
+footer p {
+	padding-top: 10px;
+}
+
+footer .arrow {
+	width: 0; 
+	height: 0; 
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 20px solid black;
+	margin-left: auto;
+	margin-right: auto;
+}*/

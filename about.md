@@ -1,0 +1,44 @@
+---
+layout: default
+title: About
+subtitle: Hi. Name's Adam, but they call me Zeal. For reasons that remain unknown to this day.
+---
+
+I attend [Jefferson High School.](http://www.tjhsst.edu) Before that, I attended [Rachel Carson Middle School](http://www.fcps.edu/RachelCarsonMS), an experience I consider far superior.
+
+# I speak languages
+
+I'm a B1 in Japanese. I competed in the [Japan Bowl](http://www.jaswdc.org/page-1451994) three times, and got seventh, fifth, and fourth place, respectively. Japanese was my first foreign language I seriously studied, and it's still one of my favorite things in the whole world.
+
+I have also taught myself:
+
+* German, probably A2-ish
+* Spanish, also A2-ish
+* Chinese, horrible
+
+[Read about me in other languages.](about_translated)
+
+# I do web design
+
+I lean front-end and I like making websites usable and neat-looking.
+
+* Pretty good at HTML, CSS, JS, Java.
+* Okay-ish at Ruby on Rails. I spend most of my programming time diddling with Rails, so I'm getting there...
+* Bootstrap? Does that count?
+* Can use Photoshop and most tantamount photo-editing programs.
+
+Check out my [portfolio](portfolio.html) for some of my work.
+
+This site is built on Jekyll, a very lovely static site generator.
+
+# I am capable of other things
+
+Occasionally I write things and I [put them here.](writing.html)
+
+Other interests include theatre (I'm a [Cappies](http://cappies.com) critic!), Minecraft, and trying to cook things.
+
+Here's what I looked like November of freshman year:
+
+![My hideous face](images/myhideousface.png)
+
+[TL;DR](tldr.html)
