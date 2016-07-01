@@ -26,7 +26,7 @@ I've been working on this since freshman year of high school. It was originally 
 
 # Miscellany
 
-Most Bootylicious Senator [currently out of order]
+[Most Bootylicious Senator](https://most-bootylicious-senator.herokuapp.com)
 
 A completely 100% serious hot-or-not website made to teach myself the ins and outs of Ruby on Rails.
 
