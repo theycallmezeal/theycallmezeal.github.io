@@ -16,6 +16,11 @@ body {
 
 a {
 	text-decoration: none;
+	color: #0084ff;
+}
+
+a:visited {
+	color: #1500ff;
 }
 
 #navskip {
@@ -42,11 +47,7 @@ header {
 	text-align: center;
 }
 
-header ul li {
-	display: inline-block;
-	margin-left: 20px;
-	margin-right: 20px;
-	
+header h1, header ul li {
 	color: white;
 	font-family: Montserrat, Futura, Century Gothic, sans-serif;
 	font-weight: bold;
@@ -56,20 +57,28 @@ header ul li {
 	border-bottom: dotted 3px #0084ff;
 }
 
-header ul li:hover {
+header h1 {
+	font-size: 200%;
+	font-weight: bold;
+	display: inline-block;
+}
+
+header ul li {
+	display: inline-block;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+header h1:hover, header ul li:hover {
 	border-bottom: dotted 3px white;
 	-ms-transform: rotate(-5deg);
 	-webkit-transform: rotate(-5deg);
 	transform: rotate(-5deg);
 }
 
+header h1 a, header h1 a:visited,
 header ul li a, header ul li a:visited {
 	color: white;
-}
-
-#home {
-	font-size: 200%;
-	font-weight: bold;
 }
 
 main {
@@ -78,13 +87,19 @@ main {
 	margin-right: auto;
 }
 
+@media (max-width: 1024px) {
+	main {
+		width: 80%;
+	}
+}
+
 #title{
 	text-align: center;
 }
 
 #title h1 {
 	font-size: 18pt;
-	font-family: Montserrat, Futura, Century Gothic, 'Hiragino Kaku Gothic Pro', 'Meiryo', sans-serif;;
+	font-family: Montserrat, Futura, Century Gothic, 'Hiragino Kaku Gothic Pro', 'Meiryo', sans-serif;
 }
 
 #title h2 {
