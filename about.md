@@ -12,7 +12,7 @@ Before that, I attended [Rachel Carson Middle School](http://www.fcps.edu/Rachel
 
 # I speak languages
 
-I'm a B1 in Japanese and I've been studying it since the eighth grade. I competed in the [Japan Bowl](http://www.jaswdc.org/page-1451994) three times, and my team came in seventh, fifth, and fourth place, respectively.
+I've studied Japanese in school for many years and I'm at a B1 level.
 
 I have also taught myself:
 
@@ -36,7 +36,7 @@ This site is built on Jekyll, a lovely static site generator.
 
 Occasionally I write things and I [put them here.](writing.html)
 
-Other interests include theatre (I was a [Cappies](http://cappies.com) critic!), Minecraft, Hitman, and making onion rings.
+Other interests include theatre tech, Minecraft, Hitman, and making onion rings.
 
 # I can be contacted
 
