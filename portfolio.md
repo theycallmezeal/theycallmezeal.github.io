@@ -45,6 +45,10 @@ A project on Huckleberry Finn for English 11.
 
 Type in anything you want and The Comparatron will compare it to something. Ever so slightly salty.
 
+[Nouveau America Baby Namer](/pf/babynamer)
+
+This generator is perfect if you want a name for your child that says, we're a couple who loves creativity and who also doesn't care if our kids get bullied throughout their entire childhood.
+
 [Over8d](http://over8d.wordpress.com)
 
 A blog I updated throughout middle school. Mostly nostalgic.
