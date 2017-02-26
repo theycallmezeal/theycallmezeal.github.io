@@ -4,48 +4,41 @@ title: About
 subtitle: Hi. Name's Adam, but they call me Zeal. For reasons that remain unknown to this day.
 ---
 
-I'll be attending the [College of William and Mary](http://wm.edu) from 2016 to 2020.
+I attend the [College of William and Mary](http://wm.edu) and I'm set to graduate in 2020. I study computer science and linguistics.
 
-Before that, I attended [Jefferson High School.](http://www.tjhsst.edu)
+# I like language
 
-Before that, I attended [Rachel Carson Middle School](http://www.fcps.edu/RachelCarsonMS), which was way better than Jefferson.
+I speak Japanese at around a B1 level and German and Chinese at around A2.
 
-# I speak languages
-
-I've studied Japanese in school for many years and I'm at a B1 level.
-
-I have also taught myself:
-
-* German, probably A2-ish
-* Spanish, also A2-ish
-* Chinese, horrible
+I assist [Professor Dan Parker](http://parker.blogs.wm.edu) with his linguistics research.
 
 # I do web design
 
 I lean front-end and I like making websites usable and neat-looking.
 
-* Good at HTML, CSS, JS, Java.
-* Decent at Ruby on Rails.
-* Can use Photoshop and most tantamount photo-editing programs.
+* HTML, CSS, JavaScript.
+* Java, Python, Ruby.
+* Experience with backend development using Ruby on Rails.
+* Adobe Photoshop.
 
 Check out my [portfolio](portfolio.html) for some of my work.
 
-This site is built on Jekyll, a lovely static site generator.
+This site is built on Jekyll.
 
 # I am capable of other things
 
 Occasionally I write things and I [put them here.](writing.html)
 
-Other interests include theatre tech, Minecraft, Hitman, and making onion rings.
+I'm the 16th best Just Dance player in the United States (not kidding).
+
+I also like cooking, video editing (I can use Adobe After Effects), and Tetris.
 
 # I can be contacted
 
-I'm [+ZealAn on Google+](http://www.plus.google.com/+ZealAn) and [@theycallmezeal on Twitter.](http://twitter.com/theycallmezeal)
+I'm [@theycallmezeal on Twitter.](http://twitter.com/theycallmezeal)
 
 I'm occasionally on IRC. Ping tcmzeal on freenode.
 
 Here's what I looked like November of freshman year:
 
 ![My hideous face](images/myhideousface.png)
-
-[TL;DR](tldr.html)
