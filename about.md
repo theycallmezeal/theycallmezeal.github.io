@@ -35,7 +35,7 @@ I also like cooking, video editing (I can use Adobe After Effects), and Tetris.
 
 # I can be contacted
 
-I'm [@theycallmezeal on Twitter.](http://twitter.com/theycallmezeal)
+I'm [@theycallmezeal on Twitter.](http://twitter.com/theycallmezeal) I sporadically blog at [icarlyfiorina.tumblr.com](http://icarlyfiorina.tumblr.com) as well.
 
 I'm occasionally on IRC. Ping tcmzeal on freenode.
 
