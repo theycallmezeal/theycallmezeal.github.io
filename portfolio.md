@@ -5,25 +5,23 @@ subtitle: I made these with my own two hands and one keyboard.
 ---
 # For-realsies work
 
-I'm a director of web design at [Unified Democracy](http://teensforteens.info), a political action committee that's all about increasing student political participation. *(Ironically, I pay no attention to politics.)*
+I led the front end of a complete website rewrite for [Unified Democracy](http://teensforteens.info). *(Ironically, I pay no attention to politics.)*
 
 # Minecraft
 
 Under the handle Lapiman, I've done some Minecrafty stuff...
 
-*There was a period of time when I wanted to be anonymous. So if you see anything under the Lapiman Github account, it's me.*
+I have released one mod:
 
-[Japanese localization for Galacticraft](https://github.com/micdoodle8/Galacticraft/blob/master/src/main/resources/assets/galacticraftcore/lang/ja_JP.lang)
+[Gold in Them Thar Hills](https://github.com/theycallmezeal/goldinthemtharhills)
 
-[Japanese localization for Quark](https://github.com/Vazkii/Quark/blob/master/src/main/resources/assets/quark/lang/ja_JP.lang)
-
-[Japanese localization for Equivalent Exchange 3](https://github.com/pahimar/Equivalent-Exchange-3)
-
-The creator, [Pahimar](http://pahimar.com), removed localizations a while ago, but dig in the history and you'll find me. (I owe a thank-you to Pahi for providing the inspiration to start my modding journey.)
+I am working on a second:
 
 [Grimcraft](https://github.com/thinkplank/grimcraft)
 
-I've been working on this since freshman year of high school. It was originally a two-person affair, me and my friend [Fox Wilson](http://fwilson.me), and we called ourselves The Think Plank. Then he lost interest and started becoming accomplished instead.
+I've also written Japanese localizations for... [Galacticraft](https://github.com/micdoodle8/Galacticraft/blob/master/src/main/resources/assets/galacticraftcore/lang/ja_JP.lang) [Quark](https://github.com/Vazkii/Quark/blob/master/src/main/resources/assets/quark/lang/ja_JP.lang)
+
+*There was a period of time when I wanted to be anonymous. So if you see anything under the Lapiman Github account, it's me.*
 
 ***
 
@@ -51,4 +49,4 @@ This generator is perfect if you want a name for your child that says, we're a c
 
 [Over8d](http://over8d.wordpress.com)
 
-A blog I updated throughout middle school. Mostly nostalgic.
+A blog I wrote in middle school.
