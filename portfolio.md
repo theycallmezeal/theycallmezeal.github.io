@@ -11,17 +11,13 @@ I led the front end of a complete website rewrite for [Unified Democracy](http:/
 
 Under the handle Lapiman, I've done some Minecrafty stuff...
 
-I have released one mod:
+I have released one mod: [Gold in Them Thar Hills](https://github.com/theycallmezeal/goldinthemtharhills)
 
-[Gold in Them Thar Hills](https://github.com/theycallmezeal/goldinthemtharhills)
+I am working on a second: [Grimcraft](https://github.com/thinkplank/grimcraft)
 
-I am working on a second:
+I've also written Japanese localizations for... [Galacticraft](https://github.com/micdoodle8/Galacticraft/blob/master/src/main/resources/assets/galacticraftcore/lang/ja_JP.lang) | [Quark](https://github.com/Vazkii/Quark/blob/master/src/main/resources/assets/quark/lang/ja_JP.lang)
 
-[Grimcraft](https://github.com/thinkplank/grimcraft)
-
-I've also written Japanese localizations for... [Galacticraft](https://github.com/micdoodle8/Galacticraft/blob/master/src/main/resources/assets/galacticraftcore/lang/ja_JP.lang) [Quark](https://github.com/Vazkii/Quark/blob/master/src/main/resources/assets/quark/lang/ja_JP.lang)
-
-*There was a period of time when I wanted to be anonymous. So if you see anything under the Lapiman Github account, it's me.*
+*There was a time when I wanted to be anonymous. So if you see anything under the Lapiman Github account, it's me.*
 
 ***
 
