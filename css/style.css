@@ -57,6 +57,10 @@ header h1, header ul li {
 	border-bottom: dotted 3px #0084ff;
 }
 
+header ul {
+	padding: 0px;
+}
+
 header h1 {
 	font-size: 200%;
 	font-weight: bold;
