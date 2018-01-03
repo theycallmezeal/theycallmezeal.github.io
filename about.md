@@ -1,44 +1,43 @@
 ---
 layout: default
 title: About
-subtitle: Hi. Name's Adam, but they call me Zeal. For reasons that remain unknown to this day.
+subtitle: Hi. Name's Adam, but they call me Zeal.
 ---
 
-I attend the [College of William and Mary](http://wm.edu) and I'm set to graduate in 2020. I study computer science and linguistics.
+I attend the [College of William and Mary](http://wm.edu), graduating spring 2020. I study computer science and linguistics.
 
 # I like language
 
-I speak Japanese at around a B1 level and German and Chinese at around A2.
+I speak B1 Japanese, B1 German and A2 Chinese on the [CEFR scale](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages). I'm also working on French - A0, I guess?
 
-I assist [Professor Dan Parker](http://parker.blogs.wm.edu) with his linguistics research.
+As [Professor Dan Parker](http://www.wm.edu/as/linguistics/parker/about.html)'s research assistant I work with a cue-based ACT-R model of human sentence processing, which basically means I use computers to figure out what happens in your brain when you hear a sentence and figure out what it means.
 
-# I do web design
+# I do computery stuff
 
 I lean front-end and I like making websites usable and neat-looking.
 
 * HTML, CSS, JavaScript.
 * Java, Python, Ruby.
-* Experience with backend development using Ruby on Rails.
-* Adobe Photoshop.
-
-Check out my [portfolio](portfolio.html) for some of my work.
+* Backend development using Ruby on Rails and Django.
+* Assorted stuff: Git, Wordpress, LaTeX, Linux.
+* Familiar with: Django, C, C++, Android, MPI, R.
 
 This site is built on Jekyll.
 
+[Portfolio](portfolio#computery)
+
 # I am capable of other things
 
-Occasionally I write things and I [put them here.](writing.html)
+I do 2D animation and motion graphics in Adobe After Effects and Photoshop. [Portfolio](portfolio#video)
 
-I'm the 16th best Just Dance player in the United States (not kidding).
-
-I also like cooking, video editing (I can use Adobe After Effects), and Tetris.
+I'm the 16th best Just Dance player in the United States ([not kidding](https://youtu.be/AUqUBdKvraI)).
 
 # I can be contacted
 
-I'm [@theycallmezeal on Twitter.](http://twitter.com/theycallmezeal) I blog (rarely) at [icarly-fiorina.tumblr.com](http://icarly-fiorina.tumblr.com) as well.
+I'm [@theycallmezeal](http://twitter.com/theycallmezeal) on Twitter and [/u/theycallmezeal](http://reddit.com/u/theycallmezeal) on Reddit.
 
 I'm occasionally on IRC. Ping tcmzeal on freenode.
 
-Here's what I looked like November of freshman year:
+Here's what I look like:
 
-![My hideous face](images/myhideousface.png)
+![Me enjoying a delicious beverage](images/coke.png)
