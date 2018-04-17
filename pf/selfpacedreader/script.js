@@ -91,14 +91,15 @@ document.body.onkeydown = function() {
 }
 
 function displayOutput() {
+	console.log(output);
 	document.body.style.fontSize = "12px";
 	document.body.style.lineHeight = "24px";
 
 	text.innerHTML = "";
 	for (var i = 0; i < output.length; i++) {
-		for (var j = 0; j < output[0].length; j++) {
+		for (var j = 0; j < output[i].length; j++) {
 			text.innerHTML += output[i][j];
-			if (j < output[0].length - 1) {
+			if (j < output[i].length - 1) {
 				text.innerHTML += ",";
 			}
 		}
