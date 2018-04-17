@@ -3,9 +3,9 @@ layout: default
 title: Portfolio
 subtitle: Look, employers, I'm productive, too!
 ---
-# For-realsies work
+# Work
 
-I led the front end of a complete website rewrite for [Unified Democracy](http://teensforteens.info). *(Ironically, I pay no attention to politics.)*
+I led the front end of a complete website rewrite for [Unified Democracy](https://www.unifieddemocracy.org/). *(Ironically, I pay no attention to politics.)*
 
 # Computery
 
