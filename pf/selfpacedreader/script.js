@@ -82,7 +82,7 @@ document.body.onkeydown = function() {
 
 	text.innerHTML = thingsToShow[counter][4];
 	if (thingsToShow[counter][2] == -1) {
-		text.innerHTML += "<br>Hit LEFT for YES. Hit RIGHT for NO.";
+		text.innerHTML += "<br>Hit Y for 'yes' and N for 'no'.";
 	}
 	
 	mostRecentTime = newTime;
