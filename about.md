@@ -8,19 +8,16 @@ I attend the [College of William and Mary](http://wm.edu), graduating spring 202
 
 # I like language
 
-I speak B1 Japanese, B1 German and A2 Chinese on the [CEFR scale](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages). I'm also working on French - A0, I guess?
+I speak B1 Japanese, German, and Chinese on the [CEFR scale](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages).
 
-As [Professor Dan Parker](http://www.wm.edu/as/linguistics/parker/about.html)'s research assistant I work with a cue-based ACT-R model of human sentence processing, which basically means I use computers to figure out what happens in your brain when you hear a sentence and figure out what it means.
+As [Professor Dan Parker](http://www.wm.edu/as/linguistics/parker/about.html)'s research assistant I work with a ACT-R model of sentence processing - basically, I use computers to figure out what happens in your brain when you hear a sentence.
 
 # I do computery stuff
 
-I lean front-end and I like making websites usable and neat-looking.
+I do webdev, I lean front-end and I like making websites usable and neat-looking.
 
-* HTML, CSS, JavaScript.
-* Java, Python, Ruby.
-* Backend development using Ruby on Rails and Django.
-* Assorted stuff: Git, Wordpress, LaTeX, Linux.
-* Familiar with: Django, C, C++, Android, MPI, R.
+* Languages: HTML, CSS, JavaScript, Java, Ruby, Python, C, C++, LaTeX.
+* Frameworks and whatnot: Ruby on Rails, Django, Vue.js, Node.js, Android, Wordpress, Git, Linux.
 
 This site is built on Jekyll.
 
@@ -28,7 +25,7 @@ This site is built on Jekyll.
 
 # I am capable of other things
 
-I do 2D animation and motion graphics in Adobe After Effects and Photoshop. [Portfolio](portfolio#video)
+I do 2D animation and motion graphics in Adobe After Effects, Premiere, and Photoshop. [Portfolio](portfolio#video)
 
 I'm the 16th best Just Dance player in the United States ([not kidding](https://youtu.be/AUqUBdKvraI)).
 
