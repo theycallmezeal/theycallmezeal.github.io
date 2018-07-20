@@ -28,28 +28,18 @@ Most Bootylicious Senator \| [Link](https://most-bootylicious-senator.herokuapp.
 
 A completely 100% serious hot-or-not website. Uses Ruby on Rails. *Due to the Heroku hosting, you might have to refresh the page on your first visit to get it to show up.*
 
+Unified Democracy \| [Link](https://unifieddemocracy.org)
+
+This is a PAC that I led a complete front-end rewrite for.
+
 ## Minecraft
 
-I have released one mod: [Gold in Them Thar Hills](https://github.com/theycallmezeal/goldinthemtharhills)
+I have released one mod, Gold In Them Thar Hills: [Download](https://minecraft.curseforge.com/projects/gold-in-them-thar-hills) \| [Github](https://github.com/theycallmezeal/goldinthemtharhills)
 
-I am working on a second: [Grimcraft](https://github.com/thinkplank/grimcraft)
-
-I've also written Japanese localizations for... [Galacticraft](https://github.com/micdoodle8/Galacticraft/blob/master/src/main/resources/assets/galacticraftcore/lang/ja_JP.lang) | [Quark](https://github.com/Vazkii/Quark/blob/master/src/main/resources/assets/quark/lang/ja_JP.lang)
-
-*There was a time when I wanted to be anonymous. So if you see anything under the Lapiman Github account, it's me.*
+I've also written Japanese localizations for... [Galacticraft](https://github.com/micdoodle8/Galacticraft/blob/master/src/main/resources/assets/galacticraftcore/lang/ja_JP.lang) \| [Quark](https://github.com/Vazkii/Quark/blob/master/src/main/resources/assets/quark/lang/ja_JP.lang) \| [Hooked](https://github.com/thecodewarrior/Hooked/blob/1.12/src/main/resources/assets/hooked/lang/ja_jp.lang)
 
 # Video
 
 [YouTube](https://www.youtube.com/channel/UCa0k3CJiiQBqX5UbYlqGZPg)
 
-*Selected videos:* [Latch](https://youtu.be/2tU0Qv6Z9bE) \| [September](https://youtu.be/AUqUBdKvraI)
-
-# Writing
-
-[Rejected tjTODAY](http://twitter.com/rejectedtjTODAY)
-
-A parody Twitter account lambasting my thankfully-former high school. I created this and still run it with the help of some successors.
-
-[Over8d](http://over8d.wordpress.com)
-
-A blog I wrote in middle school, which was probably when I peaked.
+*Selected videos:* [Latch](https://youtu.be/2tU0Qv6Z9bE) \| [The Ception](https://youtu.be/gK8UJS5-jeg)
