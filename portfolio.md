@@ -8,9 +8,13 @@ subtitle: Look, employers, I'm productive, too!
 
 ## Web
 
+Data Dump \| [Link](https://devpost.com/software/data-dump)
+
+#disrupting the bathroom with the world's first IoT toilet paper. Data Dump is revolutionary (because the toilet paper spins). Made at PennApps - this won Best Humor Hack and I received a George Foreman grill for my troubles.
+
 Busco \| [Link](https://github.com/theycallmezeal/busco)
 
-A utility for search-and-rescue parties that maintains a shared list of visited locations. There's an Android app, a server / JSON API, and a web map viewer made using node.js, Ajax, and the Google Maps API. Made at Hoya Hacks in January 2018. This won second place in the software track!
+A utility for search-and-rescue parties that maintains a shared list of visited locations. There's an Android app, a server / JSON API, and a web map viewer made using node.js, Ajax, and the Google Maps API. Made at Hoya Hacks - this won second place in the software track!
 
 Just Dance for a Myo \| [Github](https://github.com/theycallmezeal/just-dance-for-a-myo) \| [Devpost](https://devpost.com/software/just-dance-on-a-myo)
 
@@ -42,4 +46,4 @@ I've also written Japanese localizations for... [Galacticraft](https://github.co
 
 [YouTube](https://www.youtube.com/channel/UCa0k3CJiiQBqX5UbYlqGZPg)
 
-*Selected videos:* [Latch](https://youtu.be/2tU0Qv6Z9bE) \| [The Ception](https://youtu.be/gK8UJS5-jeg)
+*Selected videos:* [Latch](https://youtu.be/2tU0Qv6Z9bE) \| [a very uh](https://www.youtube.com/watch?v=s5k0hbvp-l8) \| [Casanova](https://www.youtube.com/watch?v=rL04ZKqhhco) \| [The Ception](https://www.youtube.com/watch?v=gK8UJS5-jeg)
