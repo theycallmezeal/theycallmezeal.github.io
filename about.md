@@ -8,7 +8,7 @@ I attend the [College of William and Mary](http://wm.edu), graduating spring 202
 
 # I like language
 
-I speak B1 Japanese, German, and Chinese on the [CEFR scale](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages).
+I speak B1 Japanese, German, and Chinese on the [CEFR scale](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages). What that means is I'm conversational, but just barely so. I speak them like pie crust - the foundation is there, but it's flaky.
 
 As [Professor Dan Parker](http://www.wm.edu/as/linguistics/parker/about.html)'s research assistant I work with a ACT-R model of sentence processing - basically, I use computers to figure out what happens in your brain when you hear a sentence.
 
