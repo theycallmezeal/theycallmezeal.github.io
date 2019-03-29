@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body {
+  --green-100: #afe0bb;
+  --green-500: #1ab849;
+  --green-body: #29352c;
+  
+  margin: 0px;
+  font-family: Poppins, sans-serif;
+  font-size: 24px;
+  color: var(--green-body);
+}
+
+.container {
+  padding: 50px;
+}
+
+@media (min-width: 800px) {
+  .has-image {
+    display: flex;
+  }
+}
+
+.image {
+  text-align: center;
+}
+
+input, button {
+  font-family: inherit;
+  font-size: inherit;
+}
+
+#bigheader {
+  font-size: 1.5em;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  padding: 0px 10%;
+  border-top: solid 10px #1ab849;
+  background: url(https://i.imgur.com/egern2Z.png) right center no-repeat, linear-gradient(to bottom, var(--green-100) 0%, #ffffff 100%);
+}
+
+#bigheader p {
+  background-color: rgba(255, 255, 255, 0.7);
+  padding-left: 10px;
+  padding-right: 10px;
+  
+}
+
+#bigheader strong {
+  color: #1ab849;
+}
+
+#calltoaction {
+  background-color: var(--green-500);
+  color: white;
+}
+
+#form {
+  display: flex;
+  justify-content: space-between;
+}
+
+#form input {
+  flex-grow: 1;
+  margin-right: 10px;
+  border: none;
+
+}
+
+#form button {
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 0.8em;
+  text-transform: uppercase;
+}
