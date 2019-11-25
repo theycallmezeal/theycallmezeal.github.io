@@ -57,7 +57,7 @@ for (var i = 0; i < sentences.length; i++) {
 
 console.log(thingsToShow);
 
-var output = [];
+var output = "<textarea cols=\"50\" rows=\"20\">";
 
 var counter = 0;
 var text = document.getElementById("content");
@@ -72,9 +72,18 @@ document.body.onkeydown = function() {
 	var newTime = new Date().getTime();
 	outputEntry = lastArray;
 	lastArray.push(newTime - mostRecentTime);
-	output.push(outputEntry);
+	for (var i = 0; i < outputEntry.length; i++) {
+		// Write the element to the body
+		output += outputEntry[i];
+		// If this isn't the last element in this current array
+		if (i < outputEntry.length - 1) {
+			output += ",";
+		}
+	}
+	output += "\n";
 	
 	if (counter >= thingsToShow.length) {
+		output += "</textarea>";
 		displayOutput();
 		stillGoing = false;
 		return;
@@ -95,16 +104,7 @@ function displayOutput() {
 	document.body.style.fontSize = "12px";
 	document.body.style.lineHeight = "24px";
 
-	text.innerHTML = "";
-	for (var i = 0; i < output.length; i++) {
-		for (var j = 0; j < output[i].length; j++) {
-			text.innerHTML += output[i][j];
-			if (j < output[i].length - 1) {
-				text.innerHTML += ",";
-			}
-		}
-		text.innerHTML += "<br>";
-	}
+	text.innerHTML = output;
 }
 
 function shuffle(a) {
