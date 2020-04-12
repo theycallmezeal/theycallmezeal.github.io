@@ -5,8 +5,8 @@ var sentences = [
 	[4,"GP",4,"The geese chased by the children ran across the field.","Did the geese chase somebody?"],
 	[5,"GP",4,"The dogs surprised by the children barked loudly.","Did the dogs surprise someone?"],
 	[6,"GP",4,"The cats observed by the children slept in the sun.","Did the children observe someone?"],
-	[7,"GP",4,"The architects reprimanded by the CEO worked diligently through the night.","Did the CEO reprimand somone?"],
-	[8,"GP",4,"The student presented by his advisor made a speech.","Did the advisor present somone?"],
+	[7,"GP",4,"The architects reprimanded by the CEO worked diligently through the night.","Did the CEO reprimand someone?"],
+	[8,"GP",4,"The student presented by his advisor made a speech.","Did the advisor present someone?"],
 	[9,"GP",4,"The detective investigated by his superiors resigned.","Did the superiors investigate the detective?"],
 	[10,"GP",4,"The social worker sent by the court was shocked by the family's living conditions.","Did the court send someone?"],
 	[11,"MOD",6,"The investigator that was examined by the police was guilty.","Did the investigator examine someone?"],
@@ -57,7 +57,7 @@ for (var i = 0; i < sentences.length; i++) {
 
 console.log(thingsToShow);
 
-var output = [];
+var output = "<textarea cols=\"50\" rows=\"20\">";
 
 var counter = 0;
 var text = document.getElementById("content");
@@ -72,9 +72,18 @@ document.body.onkeydown = function() {
 	var newTime = new Date().getTime();
 	outputEntry = lastArray;
 	lastArray.push(newTime - mostRecentTime);
-	output.push(outputEntry);
+	for (var i = 0; i < outputEntry.length; i++) {
+		// Write the element to the body
+		output += outputEntry[i];
+		// If this isn't the last element in this current array
+		if (i < outputEntry.length - 1) {
+			output += ",";
+		}
+	}
+	output += "\n";
 	
 	if (counter >= thingsToShow.length) {
+		output += "</textarea>";
 		displayOutput();
 		stillGoing = false;
 		return;
@@ -95,16 +104,7 @@ function displayOutput() {
 	document.body.style.fontSize = "12px";
 	document.body.style.lineHeight = "24px";
 
-	text.innerHTML = "";
-	for (var i = 0; i < output.length; i++) {
-		for (var j = 0; j < output[i].length; j++) {
-			text.innerHTML += output[i][j];
-			if (j < output[i].length - 1) {
-				text.innerHTML += ",";
-			}
-		}
-		text.innerHTML += "<br>";
-	}
+	text.innerHTML = output;
 }
 
 function shuffle(a) {
