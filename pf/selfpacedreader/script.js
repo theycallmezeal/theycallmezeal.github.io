@@ -57,7 +57,7 @@ for (var i = 0; i < sentences.length; i++) {
 
 console.log(thingsToShow);
 
-var output = "<textarea cols=\"50\" rows=\"20\">";
+var output = "<textarea readonly cols=\"50\" rows=\"20\">";
 
 var counter = 0;
 var text = document.getElementById("content");
