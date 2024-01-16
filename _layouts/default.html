@@ -13,21 +13,28 @@
 	</head>
 	<body>
 		<header>
-				<h1><a href="/index">theycallmezeal</a></h1>
-				<ul>
-					<li><a href="/about">ABOUT</a></li>
-					<li><a href="/portfolio">PORTFOLIO</a></li>
-					<li><a href="/articles">ARTICLES</a></li>
-				</ul>
+				<div id="navskip"><a href="#title">Skip to main content</a></div>
+				<h1><a href="/index">Adam An</a></h1>
+				<nav>
+					<ul>
+						<li><a href="/about">ABOUT</a></li>
+						<li><a href="/portfolio">PORTFOLIO</a></li>
+						<li><a href="/articles">ARTICLES</a></li>
+					</ul>
+				</nav>
 		</header>
 		
 		<main>
-			<div id="title">
+			<section id="title">
 				<h1>{{page.title}}</h1>
-				<h2 id="date">{{ page.date | date: '%B %d, %Y' }}</h2>
-				<h2>{{page.subtitle}}</h2>
+				{% if page.date %}
+					<h2 id="date">{{ page.date | date: '%B %d, %Y' }}</h2>
+				{% endif %}
+				{% if page.subtitle %}
+					<h2>{{page.subtitle}}</h2>
+				{% endif %}
 				<hr>
-			</div>
+			</section>
 			{{content}}
 		</main>
 		
