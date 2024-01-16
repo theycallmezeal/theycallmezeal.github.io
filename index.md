@@ -6,7 +6,7 @@ css: index
 
 ![Adam An](./images/me.png)
 
-I work on morphosyntax, language variation and change, documentation, and revitalization. My current projects include:
+My [name](name) is Adam An [ædəm æn] (he/him). I work on morphosyntax, language variation and change, documentation, and revitalization. My current projects include:
 
 * Morphosyntactic and semantic variation and change in the "conjoint / disjoint" alternation in Kinyarwanda (Bantu)
 * Reconstruction and revitalization of Yesa:sahį́ (a.k.a. Tutelo-Saponi) (Siouan)
