@@ -1,43 +1,27 @@
 ---
 layout: default
-title: About
-subtitle: Hi. Name's Adam, but they call me Zeal.
+title: More about me
 ---
 
-I studied linguistics and computer science at the College of William & Mary.
+I'm originally from Nashville and have lived all over Virginia, most notably on Yesáh lands, which is why I am honored to contribute to the revitalization of Yesa:sahį́. I got my undergrad degree in linguistics at the College of William & Mary.
 
 # I like language
 
-My linguistic interests are split between:
-
-* psycholinguistics (specifically real-time language processing)
-* morphology (and its interactions with phonology and syntax)
-* historical (I'm most well-read about Proto-Indo-European)
-
-Advised by [Dan Parker](http://cell.wm.edu/parker/), I researched how information is stored in and retrieved from memory during sentence comprehension using computational and behavioral methods.
+I started my linguistic training as a psycholinguist. My psycholinguistic training is still evident in my research methods - my first instinct is always to throw something into [Ibex Farm](https://adrummond.net/ibexfarm) (RIP) and send it to a hundred people.
 
 I'm B1-ish ([CEFR scale](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)) in Mandarin Chinese, Japanese, and German. That's conversational but crunchy. I like to say I speak them like pie crust - the foundation is there, but it's flaky.
 
-# I do computery stuff
+# I program
 
-I do software development. I lean web; within that I lean frontend. I like making websites usable, accessible, and neat-looking.
+I was a software engineer in industry for four years. My specialty is front-end web development. I like making websites usable, accessible, and neat-looking.
 
-I actively use Vue for frontend; Django, Flask, or node.js for backend; and Jekyll for static site generation, like on this website.
+# I do other things
 
-[Portfolio](portfolio#computery)
+I'm a hobbyist animator and filmmaker. Some favorites from my work:
 
-# I am capable of other things
+* [Ghosts 'n' Stuff](https://www.youtube.com/watch?v=yJ94ScwFZmU) - an animation in the style of Just Dance
+* [Wing It And Sing It](https://www.youtube.com/playlist?list=PLYSee0cG8QyuLHAf_wZ9MlE4xfM_OMMzV) - a radio show where I have musical guests perform songs they've never heard before
 
-I do animation. In 3D I use Maya; in 2D you can't go wrong with After Effects and Premiere. [Portfolio](portfolio#video)
-
-I like Just Dance a stupid lot, both as a source of visual inspiration and for, well, dancing. In 2017 I was the 16th best Just Dance player in the United States.
+I like the Just Dance series of video games, both as a source of visual inspiration and for, well, dancing. In 2017 I was the 16th best Just Dance player in the United States.
 
 I like cooking. Here are some [recipes](https://www.cinc.kitchen/users/Adam) I've written.
-
-# I can be contacted
-
-I'm [@theycallmezeal](http://twitter.com/theycallmezeal) on Twitter and [/u/theycallmezeal](http://reddit.com/u/theycallmezeal) on Reddit.
-
-Here's what I look like:
-
-![Me enjoying a delicious beverage](images/coke.png)

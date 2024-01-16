@@ -100,7 +100,7 @@ main {
 	margin-right: auto;
 }
 
-main > * + *, #title > * + * {
+#title > * + *, #content > * + *, #content {
 	margin-top: 1.5rem;
 }
 
@@ -136,6 +136,10 @@ h1 {
 h2 {
 	color: var(--black);
 	font-size: 1.25rem;
+}
+
+a {
+	color: var(--blue);
 }
 
 img {

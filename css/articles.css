@@ -1,0 +1,7 @@
+#content > * + * {
+    margin-top: 4rem;
+}
+
+.post > * + * {
+    margin-top: 0.5rem;
+}

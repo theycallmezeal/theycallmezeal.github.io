@@ -6,7 +6,9 @@ css: index
 
 My name is **Adam An**. My first name is **Adam** [ædəm] and my last name is **An** [æn] - it sounds like "Anne". I use he/him pronouns.
 
-My *legal* first name is Zeal [zil] - or, if you have the [feel-fill merger](https://en.wikipedia.org/wiki/English-language_vowel_changes_before_historic_/l/#Fill%E2%80%93feel_merger) like I do, [zɪl]. I hardly use this name. I [publish as Adam An](https://orcid.org/my-orcid?orcid=0000-0002-9181-7539); please refer to me as **Adam**.
+My *legal* first name is Zeal [zil] - or, if you have the [feel-fill merger](https://en.wikipedia.org/wiki/English-language_vowel_changes_before_historic_/l/#Fill%E2%80%93feel_merger) like I do, [zɪl]. Because of this, my personal username is *theycallmezeal* or *tcmzeal* on various places across the Internet.
+
+Otherwise, I hardly use the name Zeal. I [publish as Adam An](https://orcid.org/my-orcid?orcid=0000-0002-9181-7539); please refer to me as **Adam**.
 
 # Frequently asked questions
 

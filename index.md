@@ -17,3 +17,5 @@ My [name](name) is Adam An [ædəm æn] (he/him). I work on morphosyntax, langua
 **Twitter:** [@adamanlx](https://twitter.com/adamanlx)
 
 **Bluesky:** [@adamanlx.bsky.social](https://bsky.app/profile/adamanlx.bsky.social)
+
+[More about me](about)
