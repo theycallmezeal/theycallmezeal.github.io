@@ -1,8 +1,8 @@
-title: theycallmezeal
-email: zan@email.wm.edu
-url: "http://theycallmezeal.me" # the base hostname & protocol for your site
-twitter_username: theycallmezeal
-github_username:  theycallmezeal
+url: "http://theycallmezeal.me"
 
 # Build settings
 markdown: kramdown
+
+collections:
+  posts:
+    permalink: /posts/:title

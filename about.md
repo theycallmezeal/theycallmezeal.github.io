@@ -22,6 +22,6 @@ I'm a hobbyist animator and filmmaker. Some favorites from my work:
 * [Ghosts 'n' Stuff](https://www.youtube.com/watch?v=yJ94ScwFZmU) - an animation in the style of Just Dance
 * [Wing It And Sing It](https://www.youtube.com/playlist?list=PLYSee0cG8QyuLHAf_wZ9MlE4xfM_OMMzV) - a radio show where I have musical guests perform songs they've never heard before
 
-I like the Just Dance series of video games, both as a source of visual inspiration and for, well, dancing. In 2017 I was the 16th best Just Dance player in the United States.
+In 2017 I was the 16th best Just Dance player in the United States.
 
 I like cooking. Here are some [recipes](https://www.cinc.kitchen/users/Adam) I've written.

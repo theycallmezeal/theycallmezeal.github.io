@@ -4,7 +4,7 @@ title: Articles
 css: articles
 ---
 
-{% if !site.posts %}
+{% if site.posts.size == 0 %}
 	<p>Coming soon...</p>
 {% endif %}
 

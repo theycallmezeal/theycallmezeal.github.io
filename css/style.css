@@ -142,6 +142,10 @@ a {
 	color: var(--blue);
 }
 
+a[name] {
+	color: var(--gray);
+}
+
 img {
 	max-width: 100%;
 }
