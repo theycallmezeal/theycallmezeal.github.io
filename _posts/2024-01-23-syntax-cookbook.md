@@ -3,7 +3,7 @@ layout: default
 title: Syntax cookbook
 ---
 
-Here's a "cookbook" of various kinds of English syntax trees. This is meant to be as theoretically neutral as possible; that is, this is my attempt at capturing a happy medium of what's commonly introduced in introductory texts and my own undergrad syntax class.
+Here's a "cookbook" of various kinds of English syntax trees. This is my attempt at capturing a happy medium of what's commonly introduced in introductory texts and my own undergrad syntax class.
 
 Perhaps the most controversial assumption is that morphology is a product of syntax. Not taking sides here - all I'm saying is this is what I was first taught.
 
@@ -76,4 +76,4 @@ T-to-V movement, like in the "classic" SVO sentence, is blocked due to the [Head
 
 ![Tree for a question with aspectual be](/images/trees/aspect-question-be.png)
 
-*Last updated January 23, 2024*
+*Last updated January 24, 2024*
