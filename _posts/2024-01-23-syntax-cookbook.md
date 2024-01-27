@@ -13,7 +13,7 @@ Perhaps the most controversial assumption is that morphology is a product of syn
     <dt>Headedness principle</dt>
     <dd>A phrase needs a head; an XP needs an X.</dd>
     <dt>Binarity principle</dt>
-    <dd>Everything has two children (which may![Alt text](image.png) be empty or host a combination of multiple things due to movement).</dd>
+    <dd>Everything has two children (which may be empty or host a combination of multiple things due to movement).</dd>
     <dt>Projection</dt>
     <dd>The presence of an X necessitates the presence of X' and XP above it.</dd>
     <dt><a name="vish">VISH</a> (Verb-Internal Subject Hypothesis)</dt>
