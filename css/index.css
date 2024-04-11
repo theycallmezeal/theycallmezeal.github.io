@@ -1,6 +1,7 @@
 img {
 	float: right;
 	padding-left: 12px;
+	width: 256px;
 }
 
 @media (max-width: 640px) {
