@@ -14,16 +14,16 @@ Otherwise, I hardly use the name Zeal. I [publish as Adam An](https://orcid.org/
 
 ## Where did Zeal come from?
 
-I truthfully have no idea, but I'm not the first Asian-American person to have an unusual English name.
+I truthfully have no idea.
 
 ## Why'd you start going by Adam?
 
-Because I like it! I got it from a little-known Cartoon Network show called [My Gym Partner's A Monkey](https://mygympartneramonkey.fandom.com/wiki/Adam_Lyon) when I was in second grade. By high school I started using it in a few circles after discovering the convenience of not having to spell or explain your name every time. I switched over entirely the day I started college.
+Because I don't have to explain it to people! I got it from a little-known Cartoon Network show called [My Gym Partner's A Monkey](https://mygympartneramonkey.fandom.com/wiki/Adam_Lyon) when I was in second grade.
 
 ## Do you have a middle name?
 
-Ryan. I never use this in practice, but it's what I've decided I'll put on the form if I ever change my name legally. There's no significance to it other than the fact that I like that it ends in an A and a nasal. Other candidates were Ethan and Tristan, but let's be real, am I a Tristan?
+Ryan. Legally I have no middle name, but if I ever change it, this is what I'm using. There's no significance to it, but I like that it ends in an A and a nasal. Other candidates were Ethan and Tristan, but let's be real, am I a Tristan?
 
 ## Do you have zeal?
 
-I used to get this so much that it's the single biggest reason I don't use that name any more.
+I used to get this so much that this is why I don't use that name any more.
