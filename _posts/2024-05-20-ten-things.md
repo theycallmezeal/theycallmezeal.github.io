@@ -23,7 +23,7 @@ I once saw a kooky old professor website with a page full of lists of ten things
 10. **Loafers, wingtips, and other eye-catching footwear.** I like leather shoes, but only plain or cap toe oxfords or derbies that are darker than my pants. I have a pair of derbies that have a light-colored welt, and that's as far as I'll go.
 </div>
 
-<div class="list yellow" markdown=1>
+<div class="list red" markdown=1>
 
 ### Ten languages I earnestly started learning but stopped before I got anywhere, ranked by how far I got
 

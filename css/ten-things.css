@@ -23,26 +23,26 @@
 }
 
 .blue, .blue a {
-    background-color: #78c6ed;
-    color: #0A3348;
+    background-color: #93D1F0;
+    color: #0F4D6C;
 }
 
 .purple, .purple a {
-    background-color: #BB88BF;
-    color: #331D35;
+    background-color: #C0BCDC;
+    color: #272343;
 }
 
-.orange, .orange a {
-    background-color: #F49E4C;
-    color: #603206;
+.red, .red a {
+    background-color: #F093A0;
+    color: #5A0C17;
 }
 
 .yellow, .yellow a {
-    background-color: #FCFF99;
-    color: #3B3D00;
+    background-color: #FEED9A;
+    color: #655401;
 }
 
 .green, .green a {
-    background-color: #C5D86D;
-    color: #384011;
+    background-color: #9AFEC9;
+    color: #016530;
 }
