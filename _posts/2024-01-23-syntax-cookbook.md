@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Syntax cookbook
+css: syntax
 ---
 
 Here's a "cookbook" of various kinds of English syntax trees. This is my attempt at capturing a happy medium of what's commonly introduced in introductory texts and my own undergrad syntax class.
