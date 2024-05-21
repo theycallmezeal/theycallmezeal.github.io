@@ -1,0 +1,48 @@
+.lists {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+@media (min-width: 600px) {
+    .lists {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+    }
+}
+
+.list {
+    list-style-position: inside;
+    padding: 15px;
+    border: dashed 2px white;
+}
+
+.list a {
+    font-weight: bold;
+}
+
+.blue, .blue a {
+    background-color: #78c6ed;
+    color: #0A3348;
+}
+
+.purple, .purple a {
+    background-color: #BB88BF;
+    color: #331D35;
+}
+
+.orange, .orange a {
+    background-color: #F49E4C;
+    color: #603206;
+}
+
+.yellow, .yellow a {
+    background-color: #FCFF99;
+    color: #3B3D00;
+}
+
+.green, .green a {
+    background-color: #C5D86D;
+    color: #384011;
+}
