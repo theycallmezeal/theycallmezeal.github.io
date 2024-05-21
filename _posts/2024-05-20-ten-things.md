@@ -23,6 +23,23 @@ I once saw a kooky old professor website with a page full of lists of ten things
 10. **Loafers, wingtips, and other eye-catching footwear.** I like leather shoes, but only plain or cap toe oxfords or derbies that are darker than my pants. I have a pair of derbies that have a light-colored welt, and that's as far as I'll go.
 </div>
 
+<div class="list yellow" markdown=1>
+
+### Ten math facts that are hard for me to remember
+
+1. 7 x 9 = 63
+2. 4 + 7 = 11
+3. 16 - 9 = 7
+4. 8 x 7 = 56
+5. 3 x 6 = 18
+6. 15 - 9 = 6
+7. 9 x 6 = 54
+8. 9 + 4 = 13
+9. 7 x 12, 8 x 12, and 9 x 12 - literally useless
+10. 6 x 4, 8 x 4, and 6 x 8, which all feel like they equal 32
+
+</div>
+
 <div class="list red" markdown=1>
 
 ### Ten languages I earnestly started learning but stopped before I got anywhere, ranked by how far I got
