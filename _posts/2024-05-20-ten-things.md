@@ -11,7 +11,7 @@ I once saw a kooky old professor website with a page full of lists of ten things
 <div class="list purple" markdown=1>
 ### Ten things I'll never wear
 
-1. **Vests**
+1. **Vests.**
 2. **Bow ties.**
 3. **Tank tops.**
 4. **Suspenders.**
