@@ -5,4 +5,7 @@ markdown: kramdown
 
 collections:
   posts:
-    permalink: /posts/:title
+    permalink: /article/:title
+  categories:
+    output: true
+    permalink: /articles/:title

@@ -2,6 +2,8 @@
 layout: default
 title: Ten things
 css: ten-things
+categories:
+    - just-for-fun
 ---
 
 I once saw a kooky old professor website with a page full of lists of ten things. I never found it again, but in tribute to that, here are some lists of ten things.

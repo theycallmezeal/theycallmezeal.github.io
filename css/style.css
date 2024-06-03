@@ -149,3 +149,7 @@ a[name] {
 img {
 	max-width: 100%;
 }
+
+li ol, li ul {
+	margin-left: 1rem;
+}

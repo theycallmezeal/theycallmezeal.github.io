@@ -4,6 +4,15 @@ title: Articles
 css: articles
 ---
 
+<div id="categories">
+	<p>Categories:</p>
+	<ul id="categories">
+		{% for category in site.categories %}
+			<li><a href="{{ category.url }}">{{ category.title }}</a></li>
+		{% endfor %}
+	</ul>
+</div>
+
 {% if site.posts.size == 0 %}
 	<p>Coming soon...</p>
 {% endif %}

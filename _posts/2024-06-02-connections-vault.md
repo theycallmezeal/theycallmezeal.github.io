@@ -1,6 +1,8 @@
 ---
 layout: default
 title: The Connections vault
+categories:
+    - just-for-fun
 ---
 
 Here are some Connections puzzles I've written.

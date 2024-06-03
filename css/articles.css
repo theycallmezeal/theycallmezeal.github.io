@@ -5,3 +5,17 @@
 .post > * + * {
     margin-top: 0.5rem;
 }
+
+#categories {
+    display: flex;
+    gap: 1rem;
+}
+
+#categories ul {
+    list-style-type: none;
+}
+
+#categories li:not(:last-child):after {
+    content: "|";
+    padding-left: 1rem;
+}
