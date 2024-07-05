@@ -10,6 +10,21 @@ I once saw a kooky old professor website with a page full of lists of ten things
 
 <section class="lists" markdown=1>
 
+<div class="list green" markdown=1>
+### My ten favorite ABBA songs
+
+1. Lay All Your Love On Me
+2. As Good As New
+3. Voulez-Vous
+4. Waterloo
+5. The Winner Takes It All
+6. Gimme! Gimme! Gimme! (A Man After Midnight)
+7. Mamma Mia
+8. SOS
+9. Dancing Queen
+10. Take A Chance On Me
+</div>
+
 <div class="list purple" markdown=1>
 ### Ten things I'll never wear
 
@@ -17,12 +32,12 @@ I once saw a kooky old professor website with a page full of lists of ten things
 2. **Bow ties.**
 3. **Tank tops.**
 4. **Suspenders.**
-5. **A navy blue suit.**
+5. **A blue suit.**
 6. **Pants in unusual colors**.
 7. **Boots,** except in the rain.
 8. Anything **tucked into jeans.**
 9. **Shirts in unusual patterns** - only plaid (my favorite) and rarely vertical stripes. I have some absolutely [bonkers plaid](../images/bonkers-plaid.jpg), but it's still plaid.
-10. **Loafers, wingtips, and other eye-catching footwear.** I like leather shoes, but only plain or cap toe oxfords or derbies that are darker than my pants. I have a pair of derbies that have a light-colored welt, and that's as far as I'll go.
+10. **Loafers, wingtips, and other eye-catching footwear.** I like leather shoes, but only plain or cap toe oxfords or derbies that are darker than my pants. Casual shoes follow the same rule, so no white sneakers. I have a pair of derbies that have a light-colored welt, and that's as far as I'll go.
 </div>
 
 <div class="list yellow" markdown=1>
