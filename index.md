@@ -14,7 +14,7 @@ My [name](name) is Adam Ryan An [ædəm ɹaɪən æn] (he/him). I'm a PhD studen
 
 **Email:** adamanlinguistics [at] gmail [dot] com
 
-**Twitter:** [@adamanlx](https://twitter.com/adamanlx)
+**Twitter:** [@adamryanan](https://twitter.com/adamryanan)
 
 **Bluesky:** [@adamanlx.bsky.social](https://bsky.app/profile/adamanlx.bsky.social)
 
