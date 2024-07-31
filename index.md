@@ -4,9 +4,9 @@ title: Welcome!
 css: index
 ---
 
-![Adam Ryan An](./images/me.png)
+![Adam An](./images/me.png)
 
-My [name](name) is Adam Ryan An [ædəm ɹaɪən æn] (he/him). I'm a PhD student at the University of Kansas; I work on morphosyntax, language variation and change, documentation, and revitalization. My current projects include:
+My [name](name) is Adam An [ædəm æn] (he/him). I'm a PhD student in linguistics at the University of Kansas where I am also working on a Master's in computer science. I work on morphosyntax, language variation and change, documentation, and revitalization. My current projects include:
 
 * Variation and change in Bantu verbal morphology
 * Reconstruction and revitalization of Yesa:sahį́ (a.k.a. Tutelo-Saponi) (Siouan)
@@ -14,7 +14,7 @@ My [name](name) is Adam Ryan An [ædəm ɹaɪən æn] (he/him). I'm a PhD studen
 
 **Email:** adamanlinguistics [at] gmail [dot] com
 
-**Twitter:** [@adamryanan](https://twitter.com/adamryanan)
+**Twitter:** [@adamanlx](https://twitter.com/adamanlx)
 
 **Bluesky:** [@adamanlx.bsky.social](https://bsky.app/profile/adamanlx.bsky.social)
 
