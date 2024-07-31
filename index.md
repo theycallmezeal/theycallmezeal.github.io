@@ -6,13 +6,15 @@ css: index
 
 ![Adam An](./images/me.png)
 
-My [name](name) is Adam An [ædəm æn] (he/him). I'm a PhD student in linguistics at the University of Kansas where I am also working on a Master's in computer science. I work on morphosyntax, language variation and change, documentation, and revitalization. My current projects include:
+My [name](name) is Adam An [ædəm æn] (he/him). I'm a linguist at the University of Kansas where I am completing a PhD in linguistics and a Master's in computer science.
+
+I work on morphosyntax, language variation and change, documentation, and revitalization. My current projects include:
 
 * Variation and change in Bantu verbal morphology
 * Reconstruction and revitalization of Yesa:sahį́ (a.k.a. Tutelo-Saponi) (Siouan)
 * Variation in the syntax of Mandarin Chinese-English codeswitching
 
-**Email:** adamanlinguistics [at] gmail [dot] com
+**Email:** adamanlinguistics [at] gmail [dot] com or aan [at] ku [dot] edu
 
 **Twitter:** [@adamanlx](https://twitter.com/adamanlx)
 

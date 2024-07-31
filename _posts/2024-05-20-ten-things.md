@@ -48,12 +48,12 @@ I once saw a kooky old professor website with a page full of lists of ten things
 1. **[Dirty Little Secret - All American Rejects](https://www.youtube.com/watch?v=bKERDtbpeHc)**, the first song I remember liking
 2. **[No Limit - 2 Unlimited](https://www.youtube.com/watch?v=HMTCw8CtX0E)**, which kickstarted a lifelong love of 90's-present EDM
 3. **[Marry the Night - Lady Gaga](https://www.youtube.com/watch?v=O4IgYxHEAuk&pp=ygUPbWFycnkgdGhlIG5pZ2h0)**, which taught me to appreciate the power of pop music
-4. **[Life Itself - Glass Animals](https://www.youtube.com/watch?v=9lUfunQW84U)**, which I listened to countless times in the car with my best friend from college
+4. **[Life Itself - Glass Animals](https://www.youtube.com/watch?v=9lUfunQW84U)**, which I listened to countless times in the car with my best friend
 5. **[The Spiritual - Jukebox the Ghost](https://www.youtube.com/watch?v=_vfI0aCCHug)**, a college acapella group's performance of which taught me the power of live performance
 6. **[Baby Come Back - Player](https://www.youtube.com/watch?v=tjBs4pKwzhU)**, which irreversibly converted me into a shameless yacht rocker
 7. **[July - Noah Cyrus](https://www.youtube.com/watch?v=TBeXKby2tmM)**, which almost perfectly tells the story of the worst month of my life
-8. **[Reelin' in the Years - Steely Dan](https://www.youtube.com/watch?v=91XTZ92zs2w)**, which, in one of the intense moments I've ever experienced, provided me with a brief escape from the worst month of my life
-9. **[My Day Will Come - James Francies ft. Yebba](https://www.youtube.com/watch?v=JTqREEyijSA)**, which I listened to incessantly as I recovered from the worst month of my life
+8. **[Reelin' in the Years - Steely Dan](https://www.youtube.com/watch?v=91XTZ92zs2w)**, a live performance of which, in one of the intense moments I've ever experienced, provided me with a brief-but-perfect escape from the worst month of my life
+9. **[My Day Will Come - James Francies ft. Yebba](https://www.youtube.com/watch?v=JTqREEyijSA)**, which actually saved my life
 10. **[Little Bird - Annie Lennox](https://www.youtube.com/watch?v=gMq-uIj1cKI)**, which perfectly captures the mix of anxiety and optimism I feel at time of writing, three weeks before starting grad school
 </div>
 
@@ -67,7 +67,7 @@ I once saw a kooky old professor website with a page full of lists of ten things
 5. **A blue suit.**
 6. **Pants in unusual colors**.
 7. **Boots,** except in the rain.
-8. Anything **tucked into jeans.**
+8. Anything **tucked into jeans.** I honestly don't even wear jeans that much any more; chinos FTW.
 9. **Shirts in unusual patterns** - only plaid (my favorite) and rarely vertical stripes. I have some absolutely [bonkers plaid](../images/bonkers-plaid.jpg), but it's still plaid.
 10. **Loafers, wingtips, and other eye-catching footwear.** I like leather shoes, but only plain or cap toe oxfords or derbies that are darker than my pants. Casual shoes follow the same rule, so no white sneakers. I have a pair of derbies that have a light-colored welt, and that's as far as I'll go.
 </div>
