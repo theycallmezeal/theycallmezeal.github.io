@@ -56,19 +56,27 @@ At time of writing, I’m in a coursework-heavy first year of my PhD. As such, a
 
 To help with this, I have a Trello label called **“self-inflicted”**. When I plan a sprint, I start with the coursework, and then I fill in the remaining capacity with self-inflicted tasks. Some weeks give me more capacity than others for these, but this system helps me move things forward at least a little bit each week.
 
+I often assign my self-inflicted tasks due dates, as well. It helps to turn a large task like "read a ton of papers" into, say, a one-paper-a-week reading plan using staggered due dates. (The only annoying part is that, if I need to postpone one, I have to postpone all the others.)
+
 I put my non-academic **chores and errands** on here, as well. I’m so scatterbrained that if I’ve got to get an oil change, I’ll be thinking about it all week, so it draws from the same budget that the academic tasks do.
+
+Lastly, I use a few Trello automations:
+
+* When I drag something to the "done" column, I have Trello set its status to done.
+* If something has a due date (usually coursework), I have Trello automatically move it to the "this week" column one week before it's due.
+* The *when I enter a card name containing a date, set due on the date and remove the matched text* automation is a lifesaver. It also works with phrases like "next Wednesday".
 
 ### Flexibility
 
-I diverge from what my industry team did in two ways. Firstly, I leave a few **“wiggle room”** points for small time-sensitive tasks that pop up during the week. Whenever possible, I add things to the backlog for later sprints, but sometimes things just gotta get done. These tasks are way more frequent in academia than in industry. In industry, wiggle room points would have left bandwidth unused most of the time, but in academia, I need every single one of them.
+I diverge from what my industry team did in a few ways. Firstly, I leave a few **“wiggle room”** points for small time-sensitive tasks that pop up during the week. Whenever possible, I add things to the backlog for later sprints, but sometimes things just gotta get done. These tasks are way more frequent in academia than in industry. In industry, wiggle room points would have left bandwidth unused most of the time, but in academia, I need every single one of them.
 
 Secondly, **I’m not precious about exact numbers.** If I want 40 and I end up with 39, big whoop. This was a bigger deal in industry. My team’s points were much larger than mine, so being off by one point was a more drastic under- or overcommitment. But also, the suits were tracking our points, as if a precise number could ever be a meaningful measurement. I think that's futile. I allow myself the luxury of approximation.
 
-I’ll also mention here that **“insurance points”** work well to account for uncertainty. If I don’t know how much work something is, I’ll give it extra points that reflect a worst-case scenario. If it turns out I overbudgeted, then I can use the extra bandwidth by bringing more tasks into the sprint on the fly… or by relaxing!
+Also, **“insurance points”** work well to account for uncertainty. If I don’t know how much work something is, I’ll give it extra points that reflect a worst-case scenario. If I overbudgeted, then I use the extra bandwidth by bringing more tasks into the sprint on the fly… or by relaxing!
 
 ### Why I like it
 
-**You face smaller amounts of work.** A PhD is a daunting amount of work, and even thinking about time in terms of semesters or months is overwhelming. Committing to a reasonable weeklong chunk of work lets me focus on what’s right in front of me with confidence that long-term things can stay long-term.
+**You face smaller amounts of work.** If I think too hard about how much work a PhD is, I'll start panicking. Committing to a reasonable weeklong chunk of work lets me focus on what’s right in front of me with confidence that long-term things can stay long-term.
 
 **You get to see your work move across the columns.** It feels good to complete things. Dragging a single task to a new column gives you something nice every day, and watching a sprint’s worth of tasks collect in the “done” column gives you things to celebrate as you move through time. If you put the party popper emoji 🎉 in the title of your column, Trello even gives you a confetti animation when you move something there.
 
