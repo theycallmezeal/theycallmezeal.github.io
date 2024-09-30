@@ -70,7 +70,7 @@ header h1 a:hover, header h1 a:focus {
 	border-bottom: dotted 3px white;
 }
 
-nav ul {
+nav#main-nav ul {
 	display: flex;
 	justify-content: center;
 	gap: 32px;
@@ -78,18 +78,18 @@ nav ul {
 	list-style-type: none;
 }
 
-nav li:hover, nav li:focus {
+nav#main-nav li:hover, nav#main-nav li:focus {
 	transform: rotate(-5deg);
 }
 
-nav a {
+nav#main-nav a {
 	color: white;
 	text-decoration: none;
 	font-size: 1.125rem;
 	font-weight: bold;
 }
 
-nav a:hover, nav a:focus {
+nav#main-nav a:hover, nav#main-nav a:focus {
 	border-bottom: dotted 3px white;
 }
 
