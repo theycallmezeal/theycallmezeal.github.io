@@ -12,11 +12,8 @@ I work on morphosyntax, language variation and change, documentation, and revita
 
 * Variation and change in Bantu verbal morphology
 * Reconstruction and revitalization of Yesa:sahį́ (a.k.a. Tutelo-Saponi) (Siouan)
-* Variation in the syntax of Mandarin Chinese-English codeswitching
 
 **Email:** adamanlinguistics [at] gmail [dot] com or aan [at] ku [dot] edu
-
-**Twitter:** [@adamanlx](https://twitter.com/adamanlx)
 
 **Bluesky:** [@adamanlx.bsky.social](https://bsky.app/profile/adamanlx.bsky.social)
 
