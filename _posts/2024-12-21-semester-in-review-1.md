@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Semester In Review \#1
+title: Semester In Review #1
 category: academia
 ---
 
