@@ -11,6 +11,21 @@ I once saw a kooky old professor website with a page full of lists of ten things
 <section class="lists" markdown=1>
 
 <div markdown=1>
+### Ten best songs I discovered in 2024
+
+1. [Little Bird - Annie Lennox](https://youtu.be/gMq-uIj1cKI)
+2. [Colors - Black Pumas](https://youtu.be/B7PnQBn5k_E)
+3. [Clearest Blue - CHVRCHES](https://youtu.be/BZyzX4c1vIs)
+4. [Alabama Getaway - Grateful Dead](https://youtu.be/s3QpBCRiUcI)
+5. [If It Feels Good (Then It Must Be) - Leon Bridges](https://youtu.be/xvPMqljGruE)
+6. [Pain Lies On The Riverside - Live](https://youtu.be/JXqGufsKPgQ)
+7. [How Am I Supposed To Live Without You - Michael Bolton](https://youtu.be/YFood_bTOX4)
+8. [(It Goes Like) Nanana - Peggy Gou](https://youtu.be/KnBdf559ofQ)
+9. [Contemporary Love - Rêve](https://youtu.be/5OPqZt6Pk00)
+10. [Smoke From A Distant Fire - Sanford Townsend Band](https://youtu.be/wCWVuCCWqzQ)
+</div>
+
+<div markdown=1>
 ### My ten favorite ABBA songs
 
 1. Lay All Your Love On Me
@@ -125,4 +140,4 @@ I once saw a kooky old professor website with a page full of lists of ten things
 
 </section>
 
-*Last updated July 30, 2024*
+*Created May 20, 2024*
