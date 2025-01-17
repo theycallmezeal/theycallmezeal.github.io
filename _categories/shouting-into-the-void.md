@@ -1,4 +1,4 @@
 ---
 layout: category
-category: shouting
+category: shouting-into-the-void
 ---
