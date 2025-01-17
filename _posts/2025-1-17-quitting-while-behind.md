@@ -2,7 +2,7 @@
 layout: default
 title: Quitting while you're behind
 categories:
-    - shouting
+    - shouting-into-the-void
 ---
 
 A few thoughts on the idea of "quitting while you're behind".
