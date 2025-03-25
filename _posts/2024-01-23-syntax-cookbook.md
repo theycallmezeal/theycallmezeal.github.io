@@ -2,6 +2,7 @@
 layout: default
 title: Syntax cookbook
 css: syntax
+published: false
 categories:
     - linguistics
 ---
