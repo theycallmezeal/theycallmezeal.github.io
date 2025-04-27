@@ -38,7 +38,7 @@ I shouldn't be surprised that academia, in its own way, is the same. I'm gratefu
 
 ### I said what now last time?
 
-Reading over my [semester-one-in-review]({% post_url 2024-12-21-semester-in-review-2 %}):
+Reading over my [semester-one-in-review]({% post_url 2024-12-21-semester-in-review-1 %}):
 
 * I'm a little better at putting things aside. When my current primary project has things that need doing, I'm good about prioritizing those. When I have downtime, I'm still scatterbrained, but I kinda like it that way. This is tentatively a good balance.
 * I stopped caring about grades again, which is nice.
