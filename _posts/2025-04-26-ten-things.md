@@ -11,6 +11,21 @@ I once saw a kooky old professor website with a page full of lists of ten things
 <section class="lists" markdown=1>
 
 <div markdown=1>
+### Ten sandwiches whose ingredients also work over rice
+
+1. Runza
+2. Fried chicken sandwich
+3. Cheesesteak
+4. Thanksgiving leftovers
+5. Sausage-egg-and-cheese
+6. Eggplant parm
+7. Torta de milanesa
+8. Pulled pork
+9. Pork loin (the flattened breaded kind)
+10. Sloppy joe
+</div>
+
+<div markdown=1>
 ### Ten best songs I discovered in 2024
 
 1. [Little Bird - Annie Lennox](https://youtu.be/gMq-uIj1cKI)
