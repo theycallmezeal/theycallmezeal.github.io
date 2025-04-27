@@ -8,4 +8,4 @@ collections:
     permalink: /article/:title
   categories:
     output: true
-    permalink: /articles/:title
+    permalink: /blog/:title
