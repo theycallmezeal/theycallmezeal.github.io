@@ -32,7 +32,7 @@ This loose priority ranking is coming in handy at time of writing, when I'm prep
 
 I'm going to contradict everything I just said and assert that, honestly, I wasn't *that* much focused this semester than I was last semester. Perhaps the biggest difference was rather that I hit a critical mass of *stuff* to be able to start writing and submitting things. The writing, finally, justified the wandering. No longer was I the guy with a bajillion ideas: I was the guy whose bajillion ideas got him to a draft of a qualifying paper.
 
-You know what this reminds me of? Work. In industry there was more frequent metacommentary about people's ideas of company culture: the company valued, and rewarded, collegiality and teamwork and good vibes. And I'm sure those things were well-appreciated on a personal level. I sure did. (To my coworkers, I miss yall!!!) But in practice, the biggest predictor of the allocation of reward was what people produced. As a former boss (miss you too!) put it, "it's all about delivery."
+You know what this reminds me of? Work. In industry there was more frequent metacommentary about people's ideas of company culture: the company valued, and rewarded, collegiality and teamwork and good vibes. And I'm sure those things were well-appreciated on a personal level. (To my coworkers, I miss yall!!!) But in practice, the biggest predictor of the allocation of reward was what people produced. As a former boss (miss you too!) put it, "it's all about delivery."
 
 I shouldn't be surprised that academia, in its own way, is the same. I'm grateful to be appreciated for the other things I bring to the department, but the pressure's on to be productive. This is not a new idea. This is publish or perish. But sheesh.
 
