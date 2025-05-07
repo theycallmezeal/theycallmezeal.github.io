@@ -7,8 +7,6 @@ title: Publications
 
 56th Annual Conference on African Linguistics. With Jean Paul Ngoboka.
 
-Poster (PDF)
+[Poster (PDF)](/pub/2025-acal-poster.pdf)
 
-Supplementary data (PDF)
-
-(To be uploaded at a later date!)
+[Supplementary data (PDF)](/pub/2025-acal-supplementary.pdf)
