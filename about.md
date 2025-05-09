@@ -30,3 +30,5 @@ I make animations and films. Some favorites from my work:
 In 2017 I was the 16th best Just Dance player in the United States.
 
 I like cooking. Here are some [recipes](https://www.cinc.kitchen/users/Adam) I've written.
+
+_photo credit: Chang Wang_
