@@ -1,7 +1,10 @@
 ---
 layout: default
 title: More about me
+css: index
 ---
+
+![Me serving ice cream and wearing a silly hat](./images/icecream.png)
 
 I'm originally from Nashville, Tennessee, and have lived all over Virginia, most notably on Yesáh lands, which is why I am honored to contribute to the revitalization of Yesa:sahį́. I got my undergrad degree in linguistics and computer science at the College of William & Mary.
 
