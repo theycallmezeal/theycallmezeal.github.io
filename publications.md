@@ -3,6 +3,18 @@ layout: default
 title: Publications
 ---
 
+### Northwestern or just nonstandard? Social meaning of Kinyarwanda morphosyntactic variation (2025)
+
+NWAV 53. With Jean Paul Ngoboka.
+
+[Slides (PDF)](/pub/2025-nwav.pdf)
+
+### How do we evaluate what we don't know? Social evaluation of ambiguous variables in Kinyarwanda (2025)
+
+NWAV 53. Project Launch (meaning this experiment hasn't been run yet). With Jean Paul Ngoboka.
+
+[Poster (PDF)](/pub/2025-nwav-poster.pdf)
+
 ### Social Meaning of Kinyarwanda Morphosyntactic Variation (2025)
 
 54th Annual Meeting of the Linguistic Association of the Southwest. With Jean Paul Ngoboka.
