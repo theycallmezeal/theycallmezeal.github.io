@@ -11,6 +11,21 @@ I once saw a kooky old professor website with a page full of lists of ten things
 <section class="lists" markdown=1>
 
 <div markdown=1>
+### Ten really hard things about German after I've been learning it for over a decade
+
+1. drucken vs. drücken
+2. der Druck, die Drucke vs. der Druck, die Drücke
+3. der Teil vs. das Teil; bonus points for all the compounds
+4. Konjunktiv I (who even uses this?)
+5. die Punkte, which I always think is die Pünkte
+6. The fact that only feminine measurements pluralize (20 Euro, but 20 Minute**n**)
+7. Subordinated auxiliaries go *before* Doppelinfinitiv (zB dass ich das *habe* machen können)
+8. Fudging my way through inventing a compound noun on the fly
+9. When to use "anticipatory es"
+10. Using the appropriate gender for inanimate "it" - I will **proudly** use *es* every single time
+</div>
+
+<div markdown=1>
 ### Ten sandwiches whose ingredients also work over rice
 
 1. Runza
