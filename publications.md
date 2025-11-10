@@ -3,6 +3,14 @@ layout: default
 title: Publications
 ---
 
+### Grammaticalization in Kinyarwanda mediated by age, gender, and region (2026)
+
+2026 LSA Annual Meeting. With Jean Paul Ngoboka.
+
+Slides - coming soon!
+
+[Supplemental handout (PDF)](/pub/2026-lsa-handout.pdf)
+
 ### Northwestern or just nonstandard? Social meaning of Kinyarwanda morphosyntactic variation (2025)
 
 NWAV 53. With Jean Paul Ngoboka.
