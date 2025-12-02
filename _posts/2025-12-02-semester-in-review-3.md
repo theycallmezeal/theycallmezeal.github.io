@@ -32,7 +32,7 @@ To be clear, it's worth it. You get there all grumpy from the airport before poc
 
 I walked into this semester with a draft of a QP done. I thought I'd defend it in, like, a month. Then things kept happening: preparing an abstract revealed a new angle that threw me back into revisions. Life got in the way and ate up my writing time. Details I thought I could take for granted turned into rabbit holes. I think I'm on, like, my fourth revision of the stats.
 
-So here I am a semester later not *that* much closer to finishing the QP. This worries me! It's due next semester and I don't like deadlines! But I regret to inform you that my QP is a whole lot *better* from the extra time. We'll see how I feel in a few weeks when I start super aggressively pushing for completion and start freaking out about it. But academia is set up to incentivize these long periods of slow, incremental improvement. I suppose
+So here I am a semester later not *that* much closer to finishing the QP. This worries me! It's due next semester and I don't like deadlines! But I regret to inform you that my QP is a whole lot *better* from the extra time. We'll see how I feel in a few weeks when I start super aggressively pushing for completion and start freaking out about it. But academia is set up to incentivize these long periods of slow, incremental improvement. I suppose I can appreciate the value it brought.
 
 ### Out of my comfort zone
 
