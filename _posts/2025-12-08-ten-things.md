@@ -11,6 +11,21 @@ I once saw a kooky old professor website with a page full of lists of ten things
 <section class="lists" markdown=1>
 
 <div markdown=1>
+### Ten best songs I discovered in 2025
+
+1. [The Diary of Jane - Breaking Benjamin](https://youtu.be/Ci_h4nJRga0)
+2. [Stress - Chung Ha](https://youtu.be/RZBuNkkIjPI)
+3. [Tears - Clean Bandit ft. Louisa Johnson](https://youtu.be/4KIyrVNVGuQ)
+4. [Pearls - Jessie Ware](https://youtu.be/MvB-iPmmIQw)
+5. [Shadow of a Man - Lady Gaga](https://youtu.be/LJEED4n1dP4)
+6. [Blimp - Louis Cole](https://youtu.be/8_xaSom3Lro)
+7. [Ahora Te Puedes Marchar - Luis Miguel](https://youtu.be/1bn3NkMUjrU)
+8. [WHERE IS MY HUSBAND! - RAYE](https://youtu.be/naFIxV_eW5o)
+9. [Tall Boy - Shaboozey](https://youtu.be/0uwfqxXxW9g)
+10. [Midnight Sun - Zara Larsson](https://youtu.be/WQ8T8aVBv0A)
+</div>
+
+<div markdown=1>
 ### Ten really hard things about German after I've been learning it for over a decade
 
 1. drucken vs. drücken
