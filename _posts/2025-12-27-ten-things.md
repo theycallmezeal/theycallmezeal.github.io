@@ -11,6 +11,21 @@ I once saw a kooky old professor website with a page full of lists of ten things
 <section class="lists" markdown=1>
 
 <div markdown=1>
+### Ten really hard things about Japanese after I've been learning it for over a decade
+
+1. Never being *quite* sure when pronouns are clear from context
+2. の or な? (Need to memorize for each word)
+3. The sheer volume of vocabulary; anecdotally it feels like way more words are in common use
+4. Pitch accent, "lol guess" edition
+5. Being terrified of using the wrong formality level. If I ever hit the wrong person with だ I would feel like I just flipped them the bird
+6. が instead of を with potential verbs
+7. Never being quite sure what ている means
+8. そう？　でしょう？　らしい？ The other そう？
+9. This is a weird one, but I'm too used to ending things in connectives like が、けど、から、んですが and the like that it's really hard to end on a ます without autopiloting into something that sounds like I have more to say
+10. Never knowing how much of an accent to say English words in
+</div>
+
+<div markdown=1>
 ### Ten best songs I discovered in 2025
 
 1. [The Diary of Jane - Breaking Benjamin](https://youtu.be/Ci_h4nJRga0)
