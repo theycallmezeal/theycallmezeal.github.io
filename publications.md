@@ -7,7 +7,7 @@ title: Publications
 
 2026 LSA Annual Meeting. With Jean Paul Ngoboka.
 
-Slides - coming soon!
+[Slides (PDF)](/pub/2026-lsa.pdf)
 
 [Supplemental handout (PDF)](/pub/2026-lsa-handout.pdf)
 
